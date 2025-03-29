@@ -32,3 +32,16 @@ If you don't have Gapps built-in in the flashed ROM do these remaining steps:
 9. Now you have to copy RO2RW to the phone, you will see it in the created folder in the previous step, flash it and reboot to recovery
 10. Now you can copy Gapps to sdcard and flash they
 11. Format data and finally you can reboot to the new system
+
+# Useful links
+* [nikGapps](https://nikgapps.com/)
+## Most Famous Custom ROMs
+If you're a beginner and you do not know what to install, i recommend u to visit website per website of all ROMs and entering in Telegram groups watching all the screenshots to see what you like too and then decide which flash.
+* [LineageOS](https://www.lineageos.org/)
+* [crDroid](https://crdroid.net/)
+* [Project Matrixx](https://www.projectmatrixx.org/)
+* [RisingOS Revived](https://risingosrevived.tech/)
+* [GrapheneOS](https://grapheneos.org/)
+* [Derpfest](https://derpfest.org/)
+* [EvolutionX](https://evolution-x.org/)
+and more...
