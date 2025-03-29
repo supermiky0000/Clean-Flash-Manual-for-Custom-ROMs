@@ -5,7 +5,7 @@ This is a guide designed for beginners, a clean flash can be simply a factory re
 
 * You always have to follow the developers recommendations independently from this guide. The installation of Custom ROMs often depends from the device and you must have the specific files to install for yours.
 
-* For installation of Custom ROMs you must have unlocked bootloader and it generally involves of void of warranty. The bootloader unlocking depends on the device and for it you must follow the manufacturer manual or a detailed tutorial on YouTube. You can also see your specific device forum on XDA.
+* For installation of Custom ROMs you must have unlocked bootloader and it generally involves of void of warranty. The bootloader unlocking depends on the device and for it you must follow the manufacturer manual or a detailed tutorial on YouTube. You can also see your specific device forum on [XDA](https://xdaforums.com/).
 
 * This guide skip the part of the data Backup. So if after the installation of a new ROM you want to restore all of your previous data (apps, photos...), you should consider to backup all your important files to your PC or in a cloud like Google Drive and Photos before starting. For this part I recommend you to follow a guide on Internet.
 
