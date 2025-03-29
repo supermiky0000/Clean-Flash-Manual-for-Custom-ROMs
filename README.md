@@ -37,6 +37,7 @@ If you don't have Gapps built-in in the flashed ROM do these remaining steps:
 * [nikGapps](https://nikgapps.com/)
 ## Most Famous Custom ROMs
 If you're a beginner and you do not know what to install, i recommend u to visit website per website of all ROMs and entering in Telegram groups watching all the screenshots to see what you like too and then decide which flash.
+Remember to install the file for your specific device and follow the recommendations.
 * [LineageOS](https://www.lineageos.org/)
 * [crDroid](https://crdroid.net/)
 * [Project Matrixx](https://www.projectmatrixx.org/)
