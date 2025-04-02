@@ -29,9 +29,10 @@ Let's start:
 3. Wipe Dalvik/ART, Cache, Metadata and Data partitions (do NOT reboot after this!)
 4. Return to sdcard and flash first Firmware and then ROM
 5. Flash the Recovery zip copy (it will probably reboot to recovery automatically, if not you have to do it manually)
-6. If you have Gapps in your flashed ROM, format data and finally reboot to the new system
 
-If you don't have Gapps built-in in the flashed ROM do these remaining steps:
+~ If you have Gapps in your flashed ROM: Format Data and finally reboot to the new system
+
+~ If you don't have Gapps built-in in the flashed ROM do these remaining steps:
 
 ⚠*This part is based on my experience on a Xiaomi/Redmi phone, so it will probably may vary on the device*
 
