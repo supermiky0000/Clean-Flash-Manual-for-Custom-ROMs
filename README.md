@@ -7,7 +7,7 @@ There is only a few times you may need to clean flash:
 - When your device maintainer says it's required because of changes.
 - Maybe other times like when u encounter bugs or errors
 
-## ⚠ Before starting
+## Before starting
 
 * You always have to follow the developers recommendations independently from this guide. The installation of Custom ROMs often depends from the device and you must have the specific files to install for yours.
 
@@ -15,7 +15,7 @@ There is only a few times you may need to clean flash:
 
 * This guide skip the part of the data Backup. So if after the installation of a new ROM you want to restore all of your previous data (apps, photos...), you should consider to backup all your important files to your PC or in a cloud like Google Drive and Photos before starting. For this part I recommend you to follow a guide on Internet.
 
-⚠️ This guide should be safe but in case of bricked devices or bootloop I am NOT responsible. Follow always the manual of your specific device for OEM unlocking and be careful doing all this types of things.
+⚠ This guide should be safe but in case of bricked devices or bootloop I am NOT responsible. Follow always the manual of your specific device for OEM unlocking and be careful doing all this types of things.
 
 ## Guide
 During this guide you should have a PC connected via USB because you will have to install all you need on it and then copy they in Internal Storage of the device. For this i recommend to create a folder on your desktop and install the files into it.
