@@ -1,7 +1,7 @@
-# General Clean Flash guide for Custom ROMs installation
+# *General* clean-flash guide for custom ROMs installation
 This is a guide designed for beginners, mainly for those who start from the stock ROM and want to install an [AOSP](https://source.android.com/)-based ROM. But it can be useful even to others.
 
-A Clean flash is when you format the data partition, this therefore means loss of your files.
+a Clean Flash is when you format the data partition, this therefore means loss of your files.
 There is only a few times you may need to clean flash:
 - When going from one major version to another (like Android 13 to 14) and obv when downgrading too.
 - When your device maintainer says it's required because of changes.
