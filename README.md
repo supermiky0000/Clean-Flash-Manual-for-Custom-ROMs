@@ -32,7 +32,7 @@ Let's start:
 6. If you have Gapps in your flashed ROM, format data and finally reboot to the new system
 
 If you don't have Gapps built-in in the flashed ROM do these remaining steps:
-
+*This part is based on my experience on a Xiaomi/Redmi phone, so it will probably may vary on the device*
 7. Format data and reboot to recovery
 8. Go into "data" folder, create a folder named "media" then disable and reable MTP 
 9. Now you have to copy RO2RW to the phone, you will see it in the created folder in the previous step, flash it and reboot to recovery
