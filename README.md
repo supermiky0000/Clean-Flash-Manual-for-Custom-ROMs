@@ -9,7 +9,7 @@ There is only a few times you may need to clean flash:
 
 ## Before starting
 
-* You always have to follow the developers recommendations independently from this guide. The installation of Custom ROMs often depends from the device and you must have the specific files to install for yours.
+* You always have to follow the developers and device maintainers recommendations independently from this guide. The installation of Custom ROMs often depends from the device and you must have the specific files to install for yours.
 
 * For installation of Custom ROMs you must have unlocked bootloader and it generally involves of void of warranty. Remember thatall devices have an unlockable bootloader. It's unlocking depends on the device and for it you must follow the manufacturer manual or a detailed tutorial on YouTube. You can also see your specific device forum on [XDA](https://xdaforums.com/).
 
