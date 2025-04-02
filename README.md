@@ -7,7 +7,7 @@ There is only a few times you may need to clean flash:
 - When your device maintainer says it's required because of changes.
 - Maybe other times like when u encounter bugs or errors
 
-## Before starting
+## Before starting (READ)
 
 * You always have to follow the developers and device maintainers recommendations independently from this guide. The installation of Custom ROMs often depends from the device and you must have the specific files to install for yours.
 
