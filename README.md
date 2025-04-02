@@ -41,9 +41,9 @@ If you don't have Gapps built-in in the flashed ROM do these remaining steps:
 
 # Useful links
 * [nikGapps](https://nikgapps.com/)
-* RO2RW --> Watch the repo
+* RO2RW --> uploaded file or search on Internet
 ## Custom ROMs links
-If you're a beginner and you do not know what to install, i recommend u to visit website per website of all ROMs, entering in your device maintainer Telegram group watching all the screenshots to see what you like and then decide which flash.
+If you're a beginner and you do not know what to install, i recommend u to visit the websites of all ROMs, entering in your device maintainer Telegram group watching all the screenshots to see what you like and then decide which flash.
 Remember to follow the maintainers' recommendations.
 * [LineageOS](https://www.lineageos.org/)
 * [crDroid](https://crdroid.net/)
@@ -53,4 +53,4 @@ Remember to follow the maintainers' recommendations.
 * [Derpfest](https://derpfest.org/)
 * [EvolutionX](https://evolution-x.org/)
 
-these are just the ROMs i know, if u want more search on Internet...
+these are just the majors, if u want more search on Internet...
