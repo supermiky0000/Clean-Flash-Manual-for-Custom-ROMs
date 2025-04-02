@@ -3,11 +3,11 @@ This is a guide designed for beginners, mainly for those who start from the stoc
 
 A Clean flash is when you format the data partition, this therefore means loss of your files.
 There is only a few times you may need to clean flash:
-- When going from one major version to another (like Android 13 to 14) and obv when downgrading.
+- When going from one major version to another (like Android 13 to 14) and obv when downgrading too.
 - When your device maintainer says it's required because of changes.
 - Maybe other times like when u encounter bugs or errors
 
-## ⚠️ Before starting
+## ⚠ Before starting
 
 * You always have to follow the developers recommendations independently from this guide. The installation of Custom ROMs often depends from the device and you must have the specific files to install for yours.
 
